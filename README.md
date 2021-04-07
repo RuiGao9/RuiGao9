@@ -10,5 +10,3 @@ I am a Ph.D. student at Utah Water Research Laboratory, Utah State Univeristy. D
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=RuiGao92&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiGao92&hide=javascript,go,html)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiGao92&hide_langs_below=10) -->
