@@ -1,6 +1,6 @@
 ## Rui Gao
 
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1FUbhnOxz0WG6TyHODxlk2HjT_ADTt2i6OH1oawPxXmk/edit?usp=sharing)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)]()
 [![GitHub Badge](https://img.shields.io/github/followers/RuiGao92?style=social)](https://github.com/RuiGao92?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/RaymondGao7?style=social)](https://twitter.com/RaymondGao7)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao92.RuiGao92)
