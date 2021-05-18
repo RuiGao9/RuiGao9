@@ -1,8 +1,8 @@
 ## Rui Gao
 
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://docs.google.com/document/d/1FUbhnOxz0WG6TyHODxlk2HjT_ADTt2i6OH1oawPxXmk/edit?usp=sharing)
+[![ResearchGate Badge](https://img.shields.io/badge/My-ResearchGate-green)](https://www.researchgate.net/profile/Rui-Gao-55)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=t0JFmREAAAAJ&hl=en&oi=sra)
-[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-green)](https://www.researchgate.net/profile/Rui-Gao-55)
 [![GitHub Badge](https://img.shields.io/github/followers/RuiGao92?style=social)](https://github.com/RuiGao92?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/RaymondGao7?style=social)](https://twitter.com/RaymondGao7)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao92.RuiGao92)
