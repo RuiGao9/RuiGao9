@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/RaymondGao7?style=social)](https://twitter.com/RaymondGao7)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao92.RuiGao92)
 
-I am a Ph.D. student at Utah Water Research Laboratory, Utah State Univeristy. Dr. Alfonso Torres-Rua (https://engineering.usu.edu/cee/people/faculty/torres-alfonso) is my major supervisor. My research interests include remote sensing, precise agricultural management, artificial intelligence, data mining, optimization problem, etc.
+I am a Ph.D. student at Utah Water Research Laboratory, Utah State Univeristy. Dr. Alfonso Torres-Rua (https://engineering.usu.edu/cee/people/faculty/torres-alfonso) is my major supervisor. My interesting research topics include remote sensing, precise agricultural management, artificial intelligence, data mining, optimization problem, etc. My goal is to provide scientific support for precision agriculture management and to know more about the interaction between agriculture and the ecosystem.
 
 ---
 
