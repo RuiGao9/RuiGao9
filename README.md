@@ -8,7 +8,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao92.RuiGao92)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-blue.svg)](https://www.buymeacoffee.com/RuiGao)
 
-I am a Ph.D. student at Utah Water Research Laboratory, Utah State Univeristy. Dr. Alfonso Torres-Rua (https://engineering.usu.edu/cee/people/faculty/torres-alfonso) is my major supervisor. My interesting research topics include remote sensing, precise agricultural management, artificial intelligence, data mining, optimization problem, etc. My goal is to provide scientific support for precision agriculture management and to know more about the interaction between agriculture and the ecosystem.
+[Rui](https://www.researchgate.net/profile/Rui-Gao-55) is a Ph.D. student at [Utah Water Research Laboratory](https://uwrl.usu.edu/), Utah State Univeristy. Dr. [Alfonso Torres-Rua](https://engineering.usu.edu/cee/people/faculty/torres-alfonso) is his major supervisor. Rui is interested in research topics, such as precise agriculture, remote sensing, artificial intelligence, data mining, optimization problem, etc. Rui's goal is to provide scientific support for precision agriculture management and to know more about the interaction between agriculture and the ecosystem.
 
 ---
 
