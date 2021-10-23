@@ -4,6 +4,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=t0JFmREAAAAJ&hl=en&oi=sra)
 [![ResearchGate Badge](https://img.shields.io/badge/My-ResearchGate-green)](https://www.researchgate.net/profile/Rui-Gao-55)
 [![GitHub Badge](https://img.shields.io/github/followers/RuiGao9?style=social)](https://github.com/RuiGao9?tab=followers)
+[![HYDROSHARE Badge](https://img.shields.io/badge/My-ResearchGate-green)](https://www.hydroshare.org/home/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/RaymondGao7?style=social)](https://twitter.com/RaymondGao7)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-blue.svg)](https://www.buymeacoffee.com/RuiGao)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.RuiGao9)
