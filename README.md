@@ -2,7 +2,7 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/RuiGao9?style=social)](https://github.com/RuiGao9?tab=followers)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.RuiGao9)<br>
-[![Google Scholar Badge](https://img.shields.io/badge/GoogleScholar-blue)]([https://scholar.google.com/citations?user=t0JFmREAAAAJ&hl=en&oi=sra](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5FuzRl42yEjg8QtLoIyJOIOiNZCwt2oyrNZ5gQq-WZd2Hq7QyRjPn-YlwmjwJfTXw4ccle15H8u4FXpqdw5qF7DOvBiQ&user=dR_SQZkAAAAJ))
+[![Google Scholar Badge](https://img.shields.io/badge/GoogleScholar-blue)](https://scholar.google.com/citations?hl=en&user=dR_SQZkAAAAJ)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-green)](https://www.researchgate.net/profile/Rui-Gao-55)
 [![HYDROSHARE Badge](https://img.shields.io/badge/HYDROSHARE-green)](https://www.hydroshare.org/home/)<br>
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/ruigao9)
