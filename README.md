@@ -11,7 +11,7 @@
 [![Donate Badge](https://img.shields.io/badge/Buy%20me%20a%20coffee-blue.svg)](https://www.buymeacoffee.com/RuiGao)
 
 
-[Rui](https://www.researchgate.net/profile/Rui-Gao-55) is a Ph.D. student at [Utah Water Research Laboratory](https://uwrl.usu.edu/), Utah State University, working with Dr. [Alfonso Torres-Rua](https://engineering.usu.edu/cee/people/faculty/torres-alfonso). Rui is interested in topics such as precision agriculture, remote sensing, hydrology, evapotranspiration, artificial intelligence, etc.<br> 
+[Rui](https://www.researchgate.net/profile/Rui-Gao-55) is a Ph.D. candidate at [Utah Water Research Laboratory](https://uwrl.usu.edu/), Utah State University, working with Dr. [Alfonso Torres-Rua](https://engineering.usu.edu/cee/people/faculty/torres-alfonso). Rui is interested in topics such as precision agriculture, remote sensing, hydrology, evapotranspiration, artificial intelligence, etc.<br> 
 
 Research Work:
 - Gao R., Torres-Rua, A.F., Aboutalebi, M., et al. (2022). LAI estimation across California vineyards using sUAS multi-seasonal multi-spectral, thermal, and elevation information and machine learning. Irrigation Science, 1-29. https://doi.org/10.1007/s00271-022-00776-0
