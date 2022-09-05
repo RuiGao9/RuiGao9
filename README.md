@@ -14,9 +14,14 @@
 [Rui](https://www.researchgate.net/profile/Rui-Gao-55) is a Ph.D. candidate at [Utah Water Research Laboratory](https://uwrl.usu.edu/), Utah State University, working with Dr. [Alfonso Torres-Rua](https://engineering.usu.edu/cee/people/faculty/torres-alfonso). Rui is interested in topics such as precision agriculture, remote sensing, hydrology, evapotranspiration, artificial intelligence, etc.<br> 
 
 Research Work:
-- Gao R., Torres-Rua, A.F., Aboutalebi, M., et al. (2022). LAI estimation across California vineyards using sUAS multi-seasonal multi-spectral, thermal, and elevation information and machine learning. Irrigation Science, 1-29. https://doi.org/10.1007/s00271-022-00776-0
-- Gao R., Torres-Rua A.F., Nassar A., et al. (2021, April). Evapotranspiration partitioning assessment using a machine-learning-based leaf area index and the two-source energy balance model with sUAV information. In Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping VI (Vol. 11747, p. 117470N). International Society for Optics and Photonics. https://doi.org/10.1117/12.2586259
+- Gao R., Alsina M.M, Torres-Rua A.F., et al. (2022). Exploratory analysis of vineyard leaf water potential against UAS multispectral and temperature information. Proc. SPIE 12114, Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping VII, 121140K (3 June 2022); doi: 10.1117/12.2622995
+
+- Gao R., Torres-Rua A.F., Aboutalebi, M., et al. (2022). LAI estimation across California vineyards using sUAS multi-seasonal multi-spectral, thermal, and elevation information and machine learning. Irrigation Science, 1-29. https://doi.org/10.1007/s00271-022-00776-0
+
+- Gao R., Torres-Rua A.F., Nassar A., et al. (2021, April). Evapotranspiration partitioning assessment using a machine-learning-based leaf area index and the two-source energy balance model with sUAV information. Proc. SPIE 11747, Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping VI, 117470N (12 April 2021); doi: 10.1117/12.2586259
+
 - Gao R., Nassar A., Aboutalebi M., et al. (2020, December). Grapevine leaf area index estimation with machine learning and unmanned aerial vehicle information. In AGU Fall Meeting Abstracts (Vol. 2020, pp. H008-0012).
+
 - Gao R., Zeng R.J. (2019, December). Detecting agricultural drainage ditch system in low relief land: a heterogeneous filtering approach. In AGU Fall Meeting Abstracts (Vol. 2019, pp. H11I-1586).
 
 Research Repository:
