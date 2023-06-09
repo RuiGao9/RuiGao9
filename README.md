@@ -1,7 +1,7 @@
 ## Rui Gao
 
 [![GitHub Badge](https://img.shields.io/github/followers/RuiGao9?style=social)](https://github.com/RuiGao9?tab=followers)
-![Visited Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.RuiGao9)<br>
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.RuiGao9)<br>
 [![Google Scholar Badge](https://img.shields.io/badge/GoogleScholar-blue)](https://scholar.google.com/citations?hl=en&user=dR_SQZkAAAAJ)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-green)](https://www.researchgate.net/profile/Rui-Gao-55)
 [![HYDROSHARE Badge](https://img.shields.io/badge/CUAHSI-HYDROSHARE-green)](https://www.hydroshare.org/home/)
