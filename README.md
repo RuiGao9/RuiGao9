@@ -14,6 +14,9 @@
 
 [Rui](https://www.researchgate.net/profile/Rui-Gao-55) obtained his Ph.D. degree at [Utah Water Research Laboratory](https://uwrl.usu.edu/), Utah State University, working with Dr. [Alfonso Torres-Rua](https://engineering.usu.edu/cee/people/faculty/torres-alfonso). Rui is interested in topics such as precision agriculture, remote sensing, hydrology, evapotranspiration, artificial intelligence, etc.<br> 
 
+![GoogleScholar_CloudME](https://github.com/RuiGao9/RuiGao9/assets/51354367/93a671f9-b8d5-4e5b-8cc4-46fa60e9f77b)
+
+
 Research Work:
 - Gao R., Torres-Rua A.F., Nieto H., et al. (2023) ET Partitioning Assessment Using the TSEB Model and sUAS Information across California Central Valley Vineyards. Remote Sens. 2023, 15, 756. https://doi.org/10.3390/rs15030756
 
