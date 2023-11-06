@@ -17,24 +17,24 @@
 ![GoogleScholar_CloudME](https://github.com/RuiGao9/RuiGao9/assets/51354367/93a671f9-b8d5-4e5b-8cc4-46fa60e9f77b)
 
 
-Research Work:
-- Gao R., Torres-Rua A.F., Nieto H., et al. (2023) ET Partitioning Assessment Using the TSEB Model and sUAS Information across California Central Valley Vineyards. Remote Sens. 2023, 15, 756. https://doi.org/10.3390/rs15030756
+Recent Research Work:
+- 2023 | Irrigation Science | Spatial estimation of actual evapotranspiration over irrigated turfgrass using aUAS thermal and multispectral imagery and TSEB model | https://doi.org/10.21203/rs.3.rs-3098168/v1
 
-- Gao R., Torres-Rua A.F., Aboutalebi, M., et al. (2022). LAI estimation across California vineyards using sUAS multi-seasonal multi-spectral, thermal, and elevation information and machine learning. Irrigation Science, 1-29. https://doi.org/10.1007/s00271-022-00776-0
+- 2023 | Remote Sensing | ET Partitioning Assessment Using the TSEB Model and sUAS Information across California Central Valley Vineyards | https://doi.org/10.3390/rs15030756
 
-- Gao R., Alsina M.M, Torres-Rua A.F., et al. (2022). Exploratory analysis of vineyard leaf water potential against UAS multispectral and temperature information. Proc. SPIE 12114, Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping VII, 121140K (3 June 2022); https://doi.org/10.1117/12.2622995
+- 2022 | Irrigation Science | LAI estimation across California vineyards using sUAS multi-seasonal multi-spectral, thermal, and elevation information and machine learning | https://doi.org/10.1007/s00271-022-00776-0
 
-- Gao R., Torres-Rua A.F., Nassar A., et al. (2021, April). Evapotranspiration partitioning assessment using a machine-learning-based leaf area index and the two-source energy balance model with sUAV information. Proc. SPIE 11747, Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping VI, 117470N (12 April 2021); https://doi.org/10.1117/12.2586259
+- 2022 | SPIE | Exploratory analysis of vineyard leaf water potential against UAS multispectral and temperature information | https://doi.org/10.1117/12.2622995
 
-- Gao R., Nassar A., Aboutalebi M., et al. (2020, December). Grapevine leaf area index estimation with machine learning and unmanned aerial vehicle information. In AGU Fall Meeting Abstracts (Vol. 2020, pp. H008-0012).
+- 2021 | SPIE | Evapotranspiration partitioning assessment using a machine-learning-based leaf area index and the two-source energy balance model with sUAV information | https://doi.org/10.1117/12.2586259
 
-- Gao R., Zeng R.J. (2019, December). Detecting agricultural drainage ditch system in low relief land: a heterogeneous filtering approach. In AGU Fall Meeting Abstracts (Vol. 2019, pp. H11I-1586).
-
-Research Repository:
-- Gao, R., Torres-Rua, A.F. (2021). Features extraction from the LAI2200C plant canopy analyzer, HydroShare, https://doi.org/10.4211/hs.6d0c4a14289742d0951ba5ab9eca7dc0
-- Gao, R., Torres-Rua, A.F., Aboutalebi, M, et al. (2021). Feature extraction approaches for leaf area index estimation in California vineyards via machine learning algorithms, HydroShare, https://doi.org/10.4211/hs.923cf9a7a3bb49369a4e65d48237002b
-- Gao R., Nassar A., Torres-Rua A.F., et al. (2021). Footprint area generating based on eddy covariance records, HydroShare, https://doi.org/10.4211/hs.9118e2c1034e40e4ba4721cd17702f70
-- Gao R., Torres-Rua A.F., Nassar A., et al. (2021). TSEB modeling and the comparison between the model results and the eddy-covariance monitored data within the footprint area, HydroShare, https://doi.org/10.4211/hs.eb6eeeccdbe546fc941f3c219cb05a34
+Published Repository on HydroShare:
+- 2023 | Temperature separation via eliminating shadow-pixel influence based on high-resolution sUAS image in California vineyards | https://doi.org/10.4211/hs.c0876501581f4
+- 2022 | A python-based program generating a part of information based on AggieAir images for the TSEB model: taking California vineyards as an example | https://doi.org/10.4211/hs.c12d334b3143470a9787a
+- 2021 | Features extraction from the LAI2200C plant canopy analyzer | https://doi.org/10.4211/hs.6d0c4a14289742d0951ba5ab9eca7dc0
+- 2021 | Feature extraction approaches for leaf area index estimation in California vineyards via machine learning algorithms | https://doi.org/10.4211/hs.923cf9a7a3bb49369a4e65d48237002b
+- 2021 | Footprint area generating based on eddy covariance records | https://doi.org/10.4211/hs.9118e2c1034e40e4ba4721cd17702f70
+- 2021 | TSEB modeling and the comparison between the model results and the eddy-covariance monitored data within the footprint area | https://doi.org/10.4211/hs.eb6eeeccdbe546fc941f3c219cb05a34
 
 ---
 
