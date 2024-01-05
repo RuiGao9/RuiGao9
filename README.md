@@ -12,7 +12,7 @@
 [![Donate Badge](https://img.shields.io/badge/Buy%20me%20a%20coffee-blue.svg)](https://www.buymeacoffee.com/RuiGao)
 
 
-[Rui](https://www.researchgate.net/profile/Rui-Gao-55) obtained his Ph.D. degree at [Utah Water Research Laboratory](https://uwrl.usu.edu/), Utah State University, worked with Dr. [Alfonso Torres-Rua](https://engineering.usu.edu/cee/people/faculty/torres-alfonso). Rui is interested in topics such as precision agriculture, remote sensing, hydrology, evapotranspiration, artificial intelligence, etc.<br> 
+[Rui](https://www.researchgate.net/profile/Rui-Gao-55) obtained his Ph.D. degree at [Utah Water Research Laboratory](https://uwrl.usu.edu/), [Civil&Environmental Engineering](https://engineering.usu.edu/cee/), Utah State University, worked with Dr. [Alfonso Torres-Rua](https://engineering.usu.edu/cee/people/faculty/torres-alfonso). Rui is interested in topics such as precision agriculture, remote sensing, hydrology, evapotranspiration, artificial intelligence, etc.<br> 
 
 ![GoogleScholar_CloudME](https://github.com/RuiGao9/RuiGao9/assets/51354367/93a671f9-b8d5-4e5b-8cc4-46fa60e9f77b)
 
