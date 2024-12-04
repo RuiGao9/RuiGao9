@@ -12,6 +12,8 @@
 [![Donate Badge](https://img.shields.io/badge/Buy%20me%20a%20coffee-blue.svg)](https://www.buymeacoffee.com/RuiGao)
 
 
+
+
 [Rui](https://www.researchgate.net/profile/Rui-Gao-55) obtained his Ph.D. degree at [Utah Water Research Laboratory](https://uwrl.usu.edu/), [Department of Civil & Environmental Engineering](https://engineering.usu.edu/cee/), Utah State University, worked with Dr. [Alfonso Torres-Rua](https://engineering.usu.edu/cee/people/faculty/torres-alfonso). Rui's Ph.D. dissertation relates to California vineyard water status and stress estimation using high-resolution UAV information and eddy-covariance flux tower data. <br>
 
 After Rui's graduation, Rui immediately started his first research role at [Forestry Department](https://www.forestry.msstate.edu/) at [Mississippi State University](https://www.msstate.edu/), working on evapotranspiration estimation based on Landsat and Planet images for California vineyards.<be> 
