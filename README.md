@@ -7,6 +7,7 @@
 [![HYDROSHARE Badge](https://img.shields.io/badge/CUAHSI-HYDROSHARE-green)](https://www.hydroshare.org/home/)
 [![SciProfiles](https://img.shields.io/badge/Sci-Profiles-lightblue)](https://sciprofiles.com/profile/2683627)<br>
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/ruigao9)
+[![BlueSky](https://img.shields.io/badge/RaymondGao7-BlueSky-blue)]([https://twitter.com/RaymondGao7](https://bsky.app/profile/raymondgao7.bsky.social))<br>
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40RaymondGao7)](https://twitter.com/RaymondGao7)<br>
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1RqJPnoYggKrULKly3n7fQcFqSUA8CTeP/view?usp=drive_link)
 [![Donate Badge](https://img.shields.io/badge/Buy%20me%20a%20coffee-blue.svg)](https://www.buymeacoffee.com/RuiGao)
