@@ -8,7 +8,7 @@
 [![SciProfiles](https://img.shields.io/badge/Sci-Profiles-lightblue)](https://sciprofiles.com/profile/2683627)<br>
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/ruigao9)
 [![BlueSky](https://img.shields.io/badge/RaymondGao7-BlueSky-blue)](https://bsky.app/profile/raymondgao7.bsky.social)<br>
-[![BlueSky Badge](https://img.shields.io/badge/BlueSky-Follow-blue?style=social)]([https://bsky.app/profile/raymondgao7.bsky.social](https://bsky.app/profile/raymondgao7.bsky.social/followers))
+[![BlueSky Badge](https://img.shields.io/badge/BlueSky-Follow-blue?style=social)](https://bsky.app/profile/raymondgao7.bsky.social/followers)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40RaymondGao7)](https://twitter.com/RaymondGao7)<br>
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1RqJPnoYggKrULKly3n7fQcFqSUA8CTeP/view?usp=drive_link)
