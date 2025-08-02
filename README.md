@@ -12,7 +12,7 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1RqJPnoYggKrULKly3n7fQcFqSUA8CTeP/view?usp=drive_link)
 [![Donate Badge](https://img.shields.io/badge/Buy%20me%20a%20coffee-blue.svg)](https://www.buymeacoffee.com/RuiGao)
 
-[Rui]([https://www.researchgate.net/profile/Rui-Gao-55](https://scholar.google.com/citations?user=dR_SQZkAAAAJ&hl=en) is a postdoctoral scholar at the University of California, Merced. His research focuses on integrating sensor technologies—such as Apogee infrared thermometers and soil moisture sensors—to collect field data, combined with modeling approaches to generate insights into water resource management across multiple spatial scales.<br>
+[Rui](https://scholar.google.com/citations?user=dR_SQZkAAAAJ&hl=en) is a postdoctoral scholar at the University of California, Merced. His research focuses on integrating sensor technologies—such as Apogee infrared thermometers and soil moisture sensors—to collect field data, combined with modeling approaches to generate insights into water resource management across multiple spatial scales.<br>
 
 ![GoogleScholar_CloudME](https://github.com/RuiGao9/RuiGao9/assets/51354367/93a671f9-b8d5-4e5b-8cc4-46fa60e9f77b)
 
