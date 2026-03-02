@@ -14,7 +14,3 @@
 
 [Rui](https://scholar.google.com/citations?user=dR_SQZkAAAAJ&hl=en) obtained his Ph.D. degree from Utah State University in 2023. His dissertation focused on utilizing high-resolution imagery from small unmanned aerial systems, combined with eddy-covariance flux tower data and field labor measurements, to assess plant water status and stress in California vineyards. With a master’s degree in hydrology emphasizing watershed-scale processes, he remains passionate about applying both physical and data-driven approaches to tackle real-world environmental challenges across different spatial scales. While science and technology deeply fascinate him, it is the people behind them, their perspectives on the environment, agriculture, and sustainability, that inspire him the most.<br>
 Check my current website [here](https://sites.google.com/view/gaorui/home) to learn more! <br>
-
----
-![github stats](https://github-readme-stats.vercel.app/api?username=RuiGao9&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiGao9&hide=javascript,go,html)
