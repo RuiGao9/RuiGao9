@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/ruigao9)
 [![BlueSky](https://img.shields.io/badge/RaymondGao7-BlueSky-blue)](https://bsky.app/profile/raymondgao7.bsky.social)<br>
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40RaymondGao7)](https://twitter.com/RaymondGao7)<br>
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1RqJPnoYggKrULKly3n7fQcFqSUA8CTeP/view?usp=drive_link)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1E3Xj7riFqpBoZOGnkHQRKTeN7ciUyLE4/view?usp=sharing)
 [![Donate Badge](https://img.shields.io/badge/Buy%20me%20a%20coffee-blue.svg)](https://www.buymeacoffee.com/RuiGao)
 
 [Rui](https://scholar.google.com/citations?user=dR_SQZkAAAAJ&hl=en) obtained his Ph.D. degree from Utah State University in 2023. His dissertation focused on utilizing high-resolution imagery from small unmanned aerial systems, combined with eddy-covariance flux tower data and field labor measurements, to assess plant water status and stress in California vineyards. With a master’s degree in hydrology emphasizing watershed-scale processes, he remains passionate about applying both physical and data-driven approaches to tackle real-world environmental challenges across different spatial scales. While science and technology deeply fascinate him, it is the people behind them, their perspectives on the environment, agriculture, and sustainability, that inspire him the most.<br>
